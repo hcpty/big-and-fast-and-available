@@ -6,6 +6,9 @@ A summary of approaches to building bigger, faster and more reliable systems.
 - Make It Bigger
   - Partitioned Instead Of Unpartitioned
 
+- Make It More Reliable
+  - Redundant Instead Of Non-Redundant
+
 - Make It Faster
   - Cached Instead Of Uncached
   - Buffered Instead Of Unbuffered
@@ -13,9 +16,6 @@ A summary of approaches to building bigger, faster and more reliable systems.
   - Ordered Instead Of Unordered
   - Streaming Instead Of Batch
   - Locally Instead Of Remotely
-
-- Make It More Reliable
-  - Redundant Instead Of Non-Redundant
 
 ### Credits
 - Computer Systems: A Programmer's Perspective, Third Edition
