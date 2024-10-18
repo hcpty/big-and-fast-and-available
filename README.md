@@ -4,16 +4,16 @@ A summary of approaches to building bigger, faster and more reliable systems.
 ### Bigger, Faster and More Reliable
 
 - Make It Bigger
-  - [Unpartitioned vs Partitioned](https://github.com/hcpty/unpartitioned-vs-partitioned)
+  - Partitioned Instead Of Unpartitioned
 
 - Make It Faster
-  - [Uncached vs Cached](https://github.com/hcpty/uncached-vs-cached)
-  - [Unbuffered vs Buffered](https://github.com/hcpty/unbuffered-vs-buffered)
-  - [Unindexed vs Indexed](https://github.com/hcpty/unindexed-vs-indexed)
-  - [Unordered vs Ordered](https://github.com/hcpty/unordered-vs-ordered)
+  - Cached Instead Of Uncached
+  - Buffered Instead Of Unbuffered
+  - Indexed Instead Of Unindexed
+  - Ordered Instead Of Unordered
 
 - Make It More Reliable
-  - [Non-Redundant vs Redundant](https://github.com/hcpty/non-redundant-vs-redundant)
+  - Redundant Instead Of Non-Redundant
 
 ### Credits
 - Computer Systems: A Programmer's Perspective, Third Edition
