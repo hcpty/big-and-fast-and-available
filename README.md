@@ -1,7 +1,7 @@
 # Readme
-A summary of approaches to building bigger, faster and stronger systems.
+A summary of approaches to building bigger, faster and more reliable systems.
 
-### Bigger, Faster and Stronger
+### Bigger, Faster and More Reliable
 
 - Make It Bigger
   - [Unpartitioned vs Partitioned](https://github.com/hcpty/unpartitioned-vs-partitioned)
@@ -12,7 +12,7 @@ A summary of approaches to building bigger, faster and stronger systems.
   - [Unindexed vs Indexed](https://github.com/hcpty/unindexed-vs-indexed)
   - [Unordered vs Ordered](https://github.com/hcpty/unordered-vs-ordered)
 
-- Make It Stronger
+- Make It More Reliable
   - [Non-Redundant vs Redundant](https://github.com/hcpty/non-redundant-vs-redundant)
 
 ### Credits
