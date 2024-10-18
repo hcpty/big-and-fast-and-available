@@ -1,7 +1,7 @@
 # Readme
-A summary of approaches to building big, reliable and fast systems.
+A summary of approaches to building reliable, big and fast systems.
 
-### Big, Reliable and Fast
+### Reliable, Big and Fast
 
 - Make It Reliable
   - Choose Redundant Over Non-Redundant
