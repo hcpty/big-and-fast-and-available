@@ -11,6 +11,7 @@ A summary of approaches to building bigger, faster and more reliable systems.
   - Buffered Instead Of Unbuffered
   - Indexed Instead Of Unindexed
   - Ordered Instead Of Unordered
+  - Streaming Instead Of Batch
   - Locally Instead Of Remotely
 
 - Make It More Reliable
