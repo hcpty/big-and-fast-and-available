@@ -12,7 +12,6 @@ A summary of approaches to building bigger, faster and more reliable systems.
   - Indexed Instead Of Unindexed
   - Ordered Instead Of Unordered
   - Locally Instead Of Remotely
-  - Relayed Instead Of Directly
 
 - Make It More Reliable
   - Redundant Instead Of Non-Redundant
