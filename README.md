@@ -1,7 +1,7 @@
 # Readme
 A summary of approaches to building big, reliable and fast systems.
 
-### Bigger, Faster and More Reliable
+### Big, Reliable and Fast
 
 - Make It Big
   - Partitioned Instead Of Unpartitioned
