@@ -3,11 +3,11 @@ A summary of approaches to building big, reliable and fast systems.
 
 ### Big, Reliable and Fast
 
-- Make It Big
-  - Choose Partitioned Over Unpartitioned
-
 - Make It Reliable
   - Choose Redundant Over Non-Redundant
+
+- Make It Big
+  - Choose Partitioned Over Unpartitioned
 
 - Make It Fast
   - Choose Cached Over Uncached
