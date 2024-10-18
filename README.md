@@ -12,9 +12,9 @@ A summary of approaches to building big, reliable and fast systems.
 - Make It Fast
   - Choose Cached Over Uncached
   - Choose Buffered Over Unbuffered
+  - Choose Streaming Over Batch
   - Choose Indexed Over Unindexed
   - Choose Ordered Over Unordered
-  - Choose Streaming Over Batch
   - Choose Locally Over Remotely
 
 ### Credits
