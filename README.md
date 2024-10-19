@@ -1,15 +1,15 @@
 # Readme
 A summary of approaches to building reliable, big and fast systems.
 
-### Make It Reliable, Big and Fast
+### Approaches to Being Reliable, Big and Fast
 
-- Make It Reliable
+- Approaches to Being Reliable
   - Choose Redundant Over Non-Redundant
 
-- Make It Big
+- Approaches to Being Big
   - Choose Partitioned Over Unpartitioned
 
-- Make It Fast
+- Approaches to Being Fast
   - Choose Cached Over Uncached
   - Choose Buffered Over Unbuffered
   - Choose Streaming Over Batch
