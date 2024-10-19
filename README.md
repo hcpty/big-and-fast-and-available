@@ -11,8 +11,8 @@ Reliable, Big and Fast.
 
 - Fast
   - Choose Cached Over Uncached
-  - Choose Streaming Over Batch
   - Choose Buffered Over Unbuffered
+  - Choose Streaming Over Batch
   - Choose Indexed Over Unindexed
   - Choose Ordered Over Unordered
 
