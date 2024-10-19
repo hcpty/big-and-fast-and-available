@@ -15,7 +15,6 @@ Approaches to being reliable, big and fast.
   - Choose Streaming Over Batch
   - Choose Indexed Over Unindexed
   - Choose Ordered Over Unordered
-  - Choose Locally Over Remotely
 
 ### Credits
 - Computer Systems: A Programmer's Perspective, Third Edition
