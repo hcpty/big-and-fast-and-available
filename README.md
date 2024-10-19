@@ -1,15 +1,15 @@
 # Readme
-Approaches to being reliable, big and fast.
+Reliable, big and fast.
 
-### Approaches to Being Reliable, Big and Fast
+### Reliable, Big and Fast
 
-- Approaches to Being Reliable
+- Reliable
   - Choose Redundant Over Non-Redundant
 
-- Approaches to Being Big
+- Big
   - Choose Partitioned Over Unpartitioned
 
-- Approaches to Being Fast
+- Fast
   - Choose Cached Over Uncached
   - Choose Streaming Over Batch
   - Choose Buffered Over Unbuffered
