@@ -11,8 +11,8 @@ Approaches to being reliable, big and fast.
 
 - Approaches to Being Fast
   - Choose Cached Over Uncached
-  - Choose Buffered Over Unbuffered
   - Choose Streaming Over Batch
+  - Choose Buffered Over Unbuffered
   - Choose Indexed Over Unindexed
   - Choose Ordered Over Unordered
 
