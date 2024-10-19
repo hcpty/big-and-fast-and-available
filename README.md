@@ -1,5 +1,5 @@
 # Readme
-A summary of approaches to building reliable, big and fast systems.
+Approaches to being reliable, big and fast.
 
 ### Approaches to Being Reliable, Big and Fast
 
