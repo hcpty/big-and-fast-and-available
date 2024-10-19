@@ -1,5 +1,5 @@
 # Readme
-Reliable, big and fast.
+Reliable, Big and Fast.
 
 ### Reliable, Big and Fast
 
