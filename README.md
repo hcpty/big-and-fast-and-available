@@ -1,9 +1,9 @@
 # Readme
-Reliable, Big and Fast.
+Available, Big and Fast.
 
-### Reliable, Big and Fast
+### Available, Big and Fast
 
-- Reliable
+- Available
   - Choose Redundant Over Non-Redundant
 
 - Big
