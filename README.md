@@ -1,5 +1,5 @@
 # Readme
-A note about available, big and fast systems.
+A note about available, big and fast system.
 
 ### Available, Big and Fast
 
