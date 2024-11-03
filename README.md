@@ -1,13 +1,10 @@
 # Readme
-A note about available, big and fast system.
+A note about big, fast and available system.
 
-### Available, Big and Fast
-
-- Available
-  - Choose Redundant Over Non-Redundant
+### Big, Fast and Available
 
 - Big
-  - Choose Partitioned Over Unpartitioned
+  - Choose Segmented Over Unsegmented
 
 - Fast
   - Choose Cached Over Uncached
@@ -15,6 +12,9 @@ A note about available, big and fast system.
   - Choose Streaming Over Batch
   - Choose Indexed Over Unindexed
   - Choose Ordered Over Unordered
+
+- Available
+  - Choose Redundant Over Non-Redundant
 
 ### Credits
 - Computer Systems: A Programmer's Perspective, Third Edition
