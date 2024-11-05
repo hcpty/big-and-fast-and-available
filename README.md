@@ -8,10 +8,10 @@ A note about big, fast and available system.
 
 - Fast
   - Choose Cached Over Uncached
-  - Choose Buffered Over Unbuffered
   - Choose Streaming Over Batch
   - Choose Indexed Over Unindexed
   - Choose Ordered Over Unordered
+  - Choose Buffered Over Unbuffered
 
 - Available
   - Choose Redundant Over Non-Redundant
